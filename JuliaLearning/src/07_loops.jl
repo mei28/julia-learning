@@ -68,3 +68,5 @@ end
 mat = [i+j for i=1:10,j=1:10 ]
 println(mat)
 println(size(mat))
+
+
